@@ -1,2 +1,2 @@
 # hackerearth-questions
-Contains solutions of practice problems of hackerearth 
+Contains solutions of practice problems of hackerearth. 
